@@ -8,6 +8,11 @@
 <h4>Trabalho realizado para a disciplina de Redes e Sistemas Distribuídos do curso de ADS.</h4>
 
 
+## Instruções para execução:
+<h4> Executar a classe programa. Java</h4>
+
+
+
 ## Discentes
 
 <h4> Monaliza Cirqueira de Santana </h4>
