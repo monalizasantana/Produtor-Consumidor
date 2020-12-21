@@ -11,4 +11,4 @@
 ## Discentes
 
 <h4> Monaliza Cirqueira de Santana </h4>
-<h4> Paula Vitória Lopes </h4>
+<h4> Paula Vitória Lopes dos Santos </h4>
