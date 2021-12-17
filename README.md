@@ -14,11 +14,23 @@ Observados os exemplos apresentados em sala (e em anexo), implementar uma versã
 
 
 ## Instruções para execução:
-<h4> Executar a classe programa. Java</h4>
+<h4>
+RODAR AS CLASSES ABAIXO 
+1- Servidor
+2- Cliente (de acordo com a quantidade que desejar)
+3- Após conectar escolher se deseja produzir ou consumir
+4- Se escolhido produzir (só enviar a mensagem que desejar que armazena no buffer )
+5- Se escolher consumir (só enviar a mensagem consumir)
+6- Observar informações de quem produziu ou consumiu no console do servidor
+ </h4>
+## **Projeto RMI - ProdutorConsumidor
+<h4>
+RODAR AS CLASSES ABAIXO :
 
-
-
-## Discentes
-
-<h4> Monaliza Cirqueira de Santana </h4>
-<h4> Paula Vitória Lopes dos Santos </h4>
+1- RmiServer
+2- RmiClient (de acordo com a quantidade que desejar)
+3- Após conectar escolher se deseja produzir ou consumir
+4- Se escolher produzir (enviar apenas uma mensagem que desejar que armazena no buffer )
+5- Se escolher consumir (só enviar a mensagem consumir)
+6- Observar informações de quem produziu ou consumiu no console do servidor
+  </h4>
